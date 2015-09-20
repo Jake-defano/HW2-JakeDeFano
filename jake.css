@@ -8,41 +8,62 @@ h1
 
 {
 	color: white;
-font-size: 16pt;}
+font-size: 30pt;
+font-family: Times-New-Roman}
 
 h2
 	
 {
-	color: brown;
-font-size: 16pt;}
+	color: red;
+font-size: 20pt;}
 
 	
 h3
 
 {
-	color: brown;
+	color: red;
 font-size: 16pt;}
 
 	
 h4
 
 {
-	color: brown;
+	color: red;
 font-size: 16pt;}
+
+	
+h5
+
+{
+	color: white;
+font-size: 35pt;
+     border-style: solid;
+     border-width: 5px;
+
+}
+
+p6
+{
+	text-align: center;
+	color: white;
+font-size: 12pt;
+border-width: medium;
+border-color: white
+	
+}
+
+p7
+{
+	color: white;
+font-size: 16pt;
+border-width: medium
+border-color: white
 
 
 div
 	{
 		background-color:black;
+		    border-style: solid;
+     border-width: small;
+	 border-color: white;
 	}
-
-p1 {
-     border-style: solid;
-     border-width: small;
-	 border-color: black
- }
-
-p2 {
-     border-style: solid;
-     border-width: small;
- } 
