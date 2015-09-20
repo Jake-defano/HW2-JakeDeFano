@@ -6,11 +6,43 @@ body {color: white;
 	
 h1
 
-{font size: 16pt;}
+{
+	color: white;
+font-size: 16pt;}
 
+h2
+	
+{
+	color: brown;
+font-size: 16pt;}
+
+	
+h3
+
+{
+	color: brown;
+font-size: 16pt;}
+
+	
+h4
+
+{
+	color: brown;
+font-size: 16pt;}
 
 
 div
 	{
-		background-color:purple;
+		background-color:black;
 	}
+
+p1 {
+     border-style: solid;
+     border-width: small;
+	 border-color: black
+ }
+
+p2 {
+     border-style: solid;
+     border-width: small;
+ } 
