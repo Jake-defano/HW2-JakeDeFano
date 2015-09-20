@@ -1,0 +1,11 @@
+BODY { background-color: white; font-family: sans-serif } 
+CAPTION { font-size: large; font-weight: bold } 
+H1 { font-family: helvetica; color: blue } 
+H2 { font-family: helvetica; color: blue } 
+H3 { font-family: helvetica; color: blue } 
+H4 { margin: 10pt; font-family: helvetica; color: blue } 
+HR { height: 6px; background-color: salmon; color: salmon } 
+HR.sep { height: 1px; width: 95%} 
+.add {color: green; font-weight: bold;} 
+.center {text-align: center} 
+.code { font-family: monospace }
